@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++17 -g CMakeFiles/GS100_001.dir/GS100_001.cpp.o -o GS100_001  -lopencv_imgcodecs -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_videoio 

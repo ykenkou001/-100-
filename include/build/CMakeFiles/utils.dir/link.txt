@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++17 -g CMakeFiles/utils.dir/utils.cpp.o -o utils  -lopencv_imgcodecs -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_videoio 

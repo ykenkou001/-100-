@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ykenkou07/projects/画像処理100本ノック/Q1_10/build",
+  "command": "/usr/bin/c++  -I/usr/include/opencv4 -std=c++17 -g -o CMakeFiles/GS100_001.dir/GS100_001.cpp.o -c /home/ykenkou07/projects/画像処理100本ノック/Q1_10/GS100_001.cpp",
+  "file": "/home/ykenkou07/projects/画像処理100本ノック/Q1_10/GS100_001.cpp"
+}
+]

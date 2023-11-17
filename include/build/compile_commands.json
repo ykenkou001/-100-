@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ykenkou07/projects/画像処理100本ノック/include/build",
+  "command": "/usr/bin/c++  -I/usr/include/opencv4 -std=c++17 -g -o CMakeFiles/utils.dir/utils.cpp.o -c /home/ykenkou07/projects/画像処理100本ノック/include/utils.cpp",
+  "file": "/home/ykenkou07/projects/画像処理100本ノック/include/utils.cpp"
+}
+]
