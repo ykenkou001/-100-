@@ -7,6 +7,8 @@
 // 二値化
 // Binarization
 
+using namespace std;
+
 cv::Mat binarize(cv::Mat img, int th) {
     cv::Mat gray = grayScale(img);
 
@@ -25,12 +27,14 @@ cv::Mat binarize(cv::Mat img, int th) {
             }
         }
     }
+
     return out;
 }
 
 int main() {
     cv::Mat img;
-    img = cv::imread("/home/ykenk07/C++_project/GS100KNOCK/Q1_10/imori.jpg");
+    img = cv::imread(
+        "/home/ykenkou07/projects/画像処理100本ノック/Q1_10/imori.jpg");
 
     cv::Mat binary;
     binary = binarize(img, 128);
