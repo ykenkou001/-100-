@@ -18,7 +18,7 @@ cv::Mat myFunciton(cv::Mat img){
     }
 
 int main() {
-
+    std::cout << "test" << endl;
     return 0;
 }
 
